@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+  .nav nav.open {
+    display: flex;
+    position: absolute;
+    top: 66px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 17px;
+    background: #fff;
+    padding: 22px;
+    box-shadow: 0 15px 35px rgba(18, 31, 71, .12);
+  }
+}

@@ -1,0 +1,10 @@
+/* A consistent portrait rhythm for the archive collage. */
+.showcase-item {
+  aspect-ratio: 3 / 4;
+}
+.showcase-item img {
+  height: 100%;
+  max-height: none;
+  object-fit: cover;
+  object-position: center;
+}
